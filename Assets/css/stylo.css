@@ -46,7 +46,6 @@
 
   .navbar{
     background-color:var(--pink)!important;
-    text-align: right!important;
   }
 
   .nav-link {
@@ -54,11 +53,7 @@
   }
 
   .navbar-brand img{
-    width: 150px!important;
-  }
-
-  .nav-item{
-    text-align: right!important;
+    width: 100px!important;
   }
 
 /*cuerpo*/
