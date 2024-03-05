@@ -82,6 +82,7 @@ h1{
 .pago {
     background-color: var(--blue);
     color: var(--white);
+    padding: 5%!important;
 }
 
 
