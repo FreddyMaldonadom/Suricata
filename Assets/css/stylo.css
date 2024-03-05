@@ -62,9 +62,9 @@
   }
 
 /*cuerpo*/
-.titulo{
+h1{
   padding: 10%!important;
-  align-content: center!important;
+  color: #707070!important;
 }
 
 
@@ -75,7 +75,6 @@
 }
 
   /*footer*/
-  
   footer{
     background-color:var(--pink);
     text-align: center;
