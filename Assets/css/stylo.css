@@ -46,17 +46,28 @@
 
   .navbar{
     background-color:var(--pink)!important;
+    text-align: right!important;
   }
 
   .nav-link {
-    text-align: center!important;
     color:var(--white);
   }
 
-  navbar-brand img{
-    max-width: 100px!important;
+  .navbar-brand img{
+    width: 150px!important;
   }
-  
+
+  .nav-item{
+    text-align: right!important;
+  }
+
+/*cuerpo*/
+.titulo{
+  padding: 10%!important;
+  align-content: center!important;
+}
+
+
 /*PAGO*/
 .pago {
     background-color: var(--blue);
