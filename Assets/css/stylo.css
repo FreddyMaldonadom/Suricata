@@ -42,13 +42,21 @@
     background-color: var(--blue)!important;
   }
 
+  /*NAV*/
+
   .navbar{
-    background-color: var(--pink);
-  }
-  .navbar-brand img{
-    max-width: 132px;
+    background-color:var(--pink)!important;
   }
 
+  .nav-link {
+    text-align: center!important;
+    color:var(--white);
+  }
+
+  navbar-brand img{
+    max-width: 100px!important;
+  }
+  
 /*PAGO*/
 .pago {
     background-color: var(--blue);
